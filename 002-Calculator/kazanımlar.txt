@@ -1,0 +1,5 @@
+class
+grid-template-columns
+grid-template-row
+word break
+word wrap
